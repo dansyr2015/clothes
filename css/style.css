@@ -1,0 +1,40 @@
+h1{
+    color:red !important;
+    text-align: center;
+}
+
+#title{
+    color:blueviolet;
+}
+
+.font_large{
+    font-size: 150%;
+}
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+  #whatsapp{
+    border: 2px solid black;
+    background: black;
+    padding: 13px;
+    text-decoration: none;
+  }
